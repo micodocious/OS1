@@ -1,0 +1,4 @@
+run 
+make clean
+make all
+get-diff-report
